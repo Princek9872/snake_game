@@ -1,9 +1,11 @@
 # snake_game
 
 🐍 Snake Game
+
 The Snake Game is a classic arcade-style game built with Python. The player controls a snake that grows longer each time it eats food, while avoiding collisions with the walls or its own body. The objective is to survive as long as possible and achieve the highest score.
 
 🎮 Features
+
 Classic Gameplay – Move the snake to eat food and grow longer.
 
 Score Tracking – Displays the current score as you play.
@@ -17,6 +19,7 @@ Replay Option – Restart the game after it ends without closing the program.
 Lightweight & Fast – Runs smoothly on any system with Python installed.
 
 🎮 Controls
+
 ⬆️ Up Arrow → Move Up
 
 ⬇️ Down Arrow → Move Down
